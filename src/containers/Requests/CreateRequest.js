@@ -31,7 +31,7 @@ export const CreateRequest = (props) => {
         }
         dispatch(userSubmitReq(newReq));
         e.preventDefault();
-        navigate('/user/requests/pending');
+        navigate('/user/requests');
     };
 
 
