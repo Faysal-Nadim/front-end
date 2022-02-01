@@ -1,0 +1,27 @@
+.price-div{
+    margin-top: 10px;
+    box-shadow: inherit 0 0 10px gray;
+    background-color: #F8F9FA;
+    box-sizing: border-box;
+    border-radius: 8px;
+    width: 95%;
+    border-left: 2px solid #157347;
+    font-weight: 700;
+    margin-left: -20px;
+    margin-bottom: 20px;
+}
+.cart_details{
+    margin-top: 10px;
+    box-shadow: inherit 0 0 10px gray;
+    background-color: #F8F9FA;
+    box-sizing: border-box;
+    border-radius: 8px;
+    width: 95%;
+    padding-bottom: 5px;
+    margin-left: -20px;
+}
+._details{
+    display: flex;
+    font-size: 18px;
+    border-bottom: 2px solid black;
+}

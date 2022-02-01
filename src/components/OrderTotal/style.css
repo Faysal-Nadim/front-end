@@ -1,0 +1,8 @@
+.order-div{
+    margin: 10px 0;
+    box-shadow: inherit 0 0 10px gray;
+    background-color: #F8F9FA;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding: 10px;
+}

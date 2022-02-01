@@ -1,0 +1,55 @@
+.reqDiv-1 {
+    margin-top: 10px;
+    box-shadow: inherit 0 0 10px gray;
+    background-color: #F8F9FA;
+    box-sizing: border-box;
+    border-radius: 8px;
+    width: 80%;
+}
+
+.note-1{
+    padding-left: 15px;
+}
+
+.req-1{
+    padding-top: 20px;
+    padding-left: 15px;
+    color: #157347;
+}
+
+.title-1{
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.title-1 a{
+    text-decoration: none;
+    color: black;
+}
+
+.detail-1{
+    margin-top: 10px;
+    height: 100%;
+}
+
+.imageContainer-1{
+    width: 180px;
+    height: 180px;
+    overflow: hidden;
+    text-align: center;
+    margin-bottom: -40px;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+.imageContainer-1 img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.msg{
+    padding-left: 10px;
+    font-size: 12px;
+    padding-top: 15px;
+}

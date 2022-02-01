@@ -1,0 +1,19 @@
+.profileDiv{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    box-shadow: inherit 0 0 10px gray;
+    background-color: #F8F9FA;
+    box-sizing: border-box;
+    border-radius: 8px;
+    width: 70%;
+    padding: 20px;
+}
+
+.profileImg img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    cursor: pointer;
+    overflow: hidden;
+}

@@ -1,0 +1,75 @@
+.bkash-pay{
+    width: 100%;
+    text-align: center;
+    height: 200px;
+}
+
+table {
+    width: 100%;
+}
+
+table tr td{
+    border: 2px solid #E2136E;
+    height: 45px;
+}
+
+.head-bkash{
+    font-weight: 300;
+}
+
+.bkash-button{
+    margin: 10px 0;
+    padding: 20px 0;
+}
+
+.bkash-button span{
+    text-decoration: none;
+    background-color: #DF146E;
+    padding: 10px 10px;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
+
+.bkash-button img{
+    height: 55px;
+    width: 60px;
+    overflow: hidden;
+    margin: -10px;
+}
+
+.ssl-pay{
+    width: 100%;
+    text-align: center;
+    height: 200px;
+}
+
+.ssl tr td{
+    border: 2px solid #295CAB;
+    height: 45px;
+}
+
+.head-ssl{
+    font-weight: 300;
+}
+
+.ssl_button{
+    margin: 10px 0;
+    padding: 20px 0;
+}
+
+.ssl_button span{
+    text-decoration: none;
+    background-color: #295CAB;
+    padding: 10px 25px;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
+
+.ssl_button img{
+    height: 45px;
+    width: 110px;
+    overflow: hidden;
+    margin-top: -5px;
+}

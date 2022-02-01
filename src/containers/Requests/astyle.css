@@ -1,0 +1,91 @@
+.imageContainer{
+    width: 180px;
+    height: 180px;
+    overflow: hidden;
+    text-align: center;
+    margin-bottom: -10px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.imageContainer img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.reqDiv {
+    margin-top: 10px;
+    box-shadow: inherit 0 0 10px gray;
+    background-color: #F8F9FA;
+    box-sizing: border-box;
+    border-radius: 8px;
+    width: 100%;
+}
+
+.req{
+    padding-top: 40px;
+    padding-left: 15px;
+    color: #157347;
+}
+
+.title{
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.note{
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.est{
+    text-align: center;
+}
+
+.title a{
+    text-decoration: none;
+    color: black;
+}
+.status{
+    padding-left: 10px;
+}
+
+.price{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.freight{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.rate{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.ship{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.detail{
+    margin-top: 10px;
+    border-right: 1px solid #157347;
+    height: 100%;
+}
+.cart-new{
+    text-align: center;
+    padding-top: 60px;
+    padding-right: 10px;
+    display: block;
+}
+
+.policy{
+    text-align: center;
+    padding-top: 15px;
+    padding-right: 10px;
+    font-size: 12px;
+}
